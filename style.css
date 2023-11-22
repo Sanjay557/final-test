@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.hero-section{
+    background-image: url(images/city.jpg);
+    background-size: cover;
+    padding: 200px;
+    margin-bottom: 0px;
+
+}
+.activity-section{
+    background: #F1FAEE;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+}
+.activity-images{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.guide-section{
+    margin-top: 50px;
+    width: 500px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    background: #A8DADC;
+    margin-bottom: 50px;
+    padding: 20px;
+    
+    border-bottom: 6px solid black;
+    
+}
+#night-out{
+    width: 200px;
+    
+}
+#chill-out{
+    width: 200px;
+}
+#lift-weight{
+    width: 200px;
+}
+.guide-image{
+    border-radius: 0%;
+    width: 200px;
+}
